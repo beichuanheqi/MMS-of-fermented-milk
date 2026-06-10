@@ -7,4 +7,6 @@ Analysis casual microbes for different sensoy phenotype of fermented milk<br>
 2. Select microbe with abs effect size > 0.5: `select.R`<br>
 3. Calculate the spearman correlation of microbe and scores: `spearman_corr.R`<br>
 ### Data
-1. results from aldex2 analysis in: `./CHE`, `./FER`, `./FRU`, `./MIL`<br>
+1. results from aldex2 and select placed in: `./CHE`, `./FER`, `./FRU`, `./MIL`<br>
+2. result from spearman :
+

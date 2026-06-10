@@ -1,0 +1,142 @@
+	feature_id	axis	embed_type	values
+0	ASV32	0	microbe	-0.02342156134545803
+1	ASV17	0	microbe	-1.069972038269043
+2	ASV2	0	microbe	-1.019473910331726
+3	ASV3	0	microbe	0.13935013115406036
+4	ASV10	0	microbe	0.5216372609138489
+5	ASV13	0	microbe	0.00011613689275691286
+6	ASV40	0	microbe	-0.004541756585240364
+7	ASV11	0	microbe	-0.0852125808596611
+8	ASV19	0	microbe	-0.3841668665409088
+9	ASV4	0	microbe	-1.1488490104675293
+10	ASV12	0	microbe	-0.014557844027876854
+11	ASV18	0	microbe	-0.005560173653066158
+12	ASV30	0	microbe	-0.4703945219516754
+13	ASV75	0	microbe	1.1701369658112526e-05
+14	ASV79	0	microbe	-0.00010023459617514163
+15	ASV5	0	microbe	-0.8488868474960327
+16	ASV1	0	microbe	-1.060616374015808
+17	ASV16	0	microbe	-0.007188086397945881
+18	ASV38	0	microbe	2.054021751973778e-05
+19	ASV9	0	microbe	-0.5845927596092224
+20	ASV32	1	microbe	-0.02088785544037819
+21	ASV17	1	microbe	-1.0951305627822876
+22	ASV2	1	microbe	-0.6393966674804688
+23	ASV3	1	microbe	-0.012253502383828163
+24	ASV10	1	microbe	0.003328139428049326
+25	ASV13	1	microbe	0.00010701011342462152
+26	ASV40	1	microbe	-0.00452257739380002
+27	ASV11	1	microbe	0.2704145908355713
+28	ASV19	1	microbe	-0.37182849645614624
+29	ASV4	1	microbe	-1.0086462497711182
+30	ASV12	1	microbe	-0.01501966267824173
+31	ASV18	1	microbe	-0.005493652541190386
+32	ASV30	1	microbe	-0.17987704277038574
+33	ASV75	1	microbe	-8.529089973308146e-05
+34	ASV79	1	microbe	2.0668117940658703e-05
+35	ASV5	1	microbe	-0.8482844233512878
+36	ASV1	1	microbe	-1.1154227256774902
+37	ASV16	1	microbe	-0.005481448955833912
+38	ASV38	1	microbe	0.0001782523759175092
+39	ASV9	1	microbe	-0.7933271527290344
+0	Acetaldehyde	0	metabolite	0.0
+1	Pentanal	0	metabolite	0.5687302947044373
+2	Hexanal	0	metabolite	0.7933308482170105
+3	Heptanal	0	metabolite	0.6108685731887817
+4	Octanal	0	metabolite	0.9232223033905029
+5	Nonanal	0	metabolite	0.5479869246482849
+6	(E)-2-Nonenal	0	metabolite	1.2143162488937378
+7	2,3-Butanedione	0	metabolite	-0.9826136827468872
+8	3-Penten-2-one	0	metabolite	0.6513580679893494
+9	2-Heptanone	0	metabolite	-1.1218304634094238
+10	Acetoin	0	metabolite	0.1328098475933075
+11	2-Nonanone	0	metabolite	0.34710997343063354
+12	Ethyl hexanoate	0	metabolite	1.311193585395813
+13	Methyl Benzoate	0	metabolite	0.8425343632698059
+14	delta-Decalactone	0	metabolite	-0.03695724532008171
+15	delta-Dodecalactone	0	metabolite	0.7066481113433838
+16	1-Hexanol	0	metabolite	0.2822780907154083
+17	1-Octen-3-ol	0	metabolite	0.39036768674850464
+18	Linalool	0	metabolite	1.3629616498947144
+19	Butanoic acid	0	metabolite	-0.4062150716781616
+20	Hexanoic acid	0	metabolite	0.5188177227973938
+21	Methanethiol	0	metabolite	0.5949106812477112
+22	Dimethyl sulfide	0	metabolite	0.29385045170783997
+23	Dimethyl disulfide	0	metabolite	0.16488344967365265
+24	Dimethyl trisulfide	0	metabolite	-0.5410959124565125
+25	Dimethyl tetrasulfide	0	metabolite	1.1966066360473633
+26	Styrene	0	metabolite	1.1106929779052734
+27	Acetaldehyde	1	metabolite	0.0
+28	Pentanal	1	metabolite	0.5679430961608887
+29	Hexanal	1	metabolite	0.614925742149353
+30	Heptanal	1	metabolite	0.5175872445106506
+31	Octanal	1	metabolite	0.6918495893478394
+32	Nonanal	1	metabolite	0.3536182940006256
+33	(E)-2-Nonenal	1	metabolite	1.268620252609253
+34	2,3-Butanedione	1	metabolite	0.1424572765827179
+35	3-Penten-2-one	1	metabolite	0.6020193099975586
+36	2-Heptanone	1	metabolite	-0.5689796209335327
+37	Acetoin	1	metabolite	-0.7828589677810669
+38	2-Nonanone	1	metabolite	-1.286500334739685
+39	Ethyl hexanoate	1	metabolite	1.3728289604187012
+40	Methyl Benzoate	1	metabolite	0.7338760495185852
+41	delta-Decalactone	1	metabolite	0.5162382125854492
+42	delta-Dodecalactone	1	metabolite	0.684032678604126
+43	1-Hexanol	1	metabolite	-0.22512340545654297
+44	1-Octen-3-ol	1	metabolite	0.9481642842292786
+45	Linalool	1	metabolite	1.4266551733016968
+46	Butanoic acid	1	metabolite	-0.4523761570453644
+47	Hexanoic acid	1	metabolite	-1.0394622087478638
+48	Methanethiol	1	metabolite	0.5391063690185547
+49	Dimethyl sulfide	1	metabolite	0.5570353865623474
+50	Dimethyl disulfide	1	metabolite	0.27166396379470825
+51	Dimethyl trisulfide	1	metabolite	1.3018423318862915
+52	Dimethyl tetrasulfide	1	metabolite	1.1978819370269775
+53	Styrene	1	metabolite	-0.6775861382484436
+0	ASV32	bias	microbe	-0.0050496309995651245
+1	ASV17	bias	microbe	-1.0438603162765503
+2	ASV2	bias	microbe	-0.3271911144256592
+3	ASV3	bias	microbe	-0.011387690901756287
+4	ASV10	bias	microbe	-0.0826076939702034
+5	ASV13	bias	microbe	3.4521490306360647e-06
+6	ASV40	bias	microbe	0.00438742944970727
+7	ASV11	bias	microbe	-0.010052240453660488
+8	ASV19	bias	microbe	-0.007803007028996944
+9	ASV4	bias	microbe	-0.6785922050476074
+10	ASV12	bias	microbe	0.00022964445815887302
+11	ASV18	bias	microbe	-0.0054224575869739056
+12	ASV30	bias	microbe	-0.08976905047893524
+13	ASV75	bias	microbe	-3.1451054383069277e-07
+14	ASV79	bias	microbe	-0.00014401048247236758
+15	ASV5	bias	microbe	-0.79865562915802
+16	ASV1	bias	microbe	-1.1733505725860596
+17	ASV16	bias	microbe	1.3814556041324977e-05
+18	ASV38	bias	microbe	5.332316504791379e-05
+19	ASV9	bias	microbe	-0.5002055764198303
+0	Acetaldehyde	bias	metabolite	0.0
+1	Pentanal	bias	metabolite	-0.9769121408462524
+2	Hexanal	bias	metabolite	-1.1317659616470337
+3	Heptanal	bias	metabolite	-1.000512719154358
+4	Octanal	bias	metabolite	-0.7865329384803772
+5	Nonanal	bias	metabolite	-0.6770654916763306
+6	(E)-2-Nonenal	bias	metabolite	-1.407870888710022
+7	2,3-Butanedione	bias	metabolite	-0.13486285507678986
+8	3-Penten-2-one	bias	metabolite	-0.9655321836471558
+9	2-Heptanone	bias	metabolite	0.7528201937675476
+10	Acetoin	bias	metabolite	0.6255851984024048
+11	2-Nonanone	bias	metabolite	0.1628822684288025
+12	Ethyl hexanoate	bias	metabolite	-1.4991728067398071
+13	Methyl Benzoate	bias	metabolite	-1.047797441482544
+14	delta-Decalactone	bias	metabolite	-0.3899209797382355
+15	delta-Dodecalactone	bias	metabolite	-1.087890863418579
+16	1-Hexanol	bias	metabolite	-1.5263720750808716
+17	1-Octen-3-ol	bias	metabolite	-0.816138744354248
+18	Linalool	bias	metabolite	-1.5165385007858276
+19	Butanoic acid	bias	metabolite	-0.19020366668701172
+20	Hexanoic acid	bias	metabolite	-0.8957170844078064
+21	Methanethiol	bias	metabolite	-0.9781838655471802
+22	Dimethyl sulfide	bias	metabolite	-1.0110520124435425
+23	Dimethyl disulfide	bias	metabolite	-1.0061407089233398
+24	Dimethyl trisulfide	bias	metabolite	0.09179311990737915
+25	Dimethyl tetrasulfide	bias	metabolite	-1.1470654010772705
+26	Styrene	bias	metabolite	0.1879945695400238

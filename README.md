@@ -8,6 +8,12 @@ Analysis casual microbes for different sensoy phenotype of fermented milk<br>
 3. Calculate the spearman correlation of microbe and scores: `spearman_corr.R`<br>
 ### Data
 1. results from aldex2 and select placed in: `./CHE`, `./FER`, `./FRU`, `./MIL`<br>
-2. result from spearman : `GMPT_Final_Causal_Microbes.csv`<br>
-
-
+2. input data of spearman : `Correlation.xlsx`<br>
+## mmvec
+Explore the conditional probabilitiy of microbes and metabolites<br>
+1. script: `run_mmvec.sh`<br>
+2. data: `./data`<br>
+3. result: `./result`<br>
+## Requirements
+1. [ALDEx2](https://github.com/ggloor/ALDEx2_dev)
+2. [mmvec](https://github.com/biocore/mmvec)
